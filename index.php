@@ -283,7 +283,7 @@
             Silver ayudé en el desarrollo ASP y C del portal
             <a target="_blank" href="https://www.infoindustrias.com">Infoindustrias.com</a>,
             directorio on-line con todas las empresas de España clasificadas por
-            actividad profesional, y ayudé construyendo recolectores de
+            actividad profesional, y ayudé también construyendo recolectores de
             información de Internet (visitadores de webs y parseadores de texto
             construidos en lenguaje C).<br />
             <br />
@@ -391,7 +391,7 @@
             <br />
 
             <b>Discapacidad:</b><br />
-            Sufro de trastorno bipolar, un problema de salud mental que te hace
+            Sufro de trastorno bipolar, un problema de salud mental que me hace
             alternar entre períodos de euforia y períodos depresivos. Estoy a la
             espera de que me valore un Tribunal Médico, para obtener el
             Certificado de Discapacidad.
