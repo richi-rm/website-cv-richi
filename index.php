@@ -54,7 +54,7 @@
 
       <link rel="stylesheet" href="css/styles.css" />
       <style>
-         <?php 
+         <?php
             $red   = \sprintf("%02s", \dechex(\random_int(0xa0, 0xff)));
             $green = \sprintf("%02s", \dechex(\random_int(0xa0, 0xff)));
             $blue  = \sprintf("%02s", \dechex(\random_int(0xa0, 0xff)));
