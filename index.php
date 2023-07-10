@@ -385,7 +385,7 @@
             <br />
 
             <b>Vivo en:</b><br />
-            Calle Conquistador Ordoño Álvarez, 6, 1, 1, 2 🏡,
+            <a target="_blank" href="https://www.google.com/maps/@37.87991,-4.7640394,20z?entry=ttu">Calle Conquistador Ordoño Álvarez, 6, 1, 1, 2</a> 🏡,
             Barrio de la Fuensanta, 14010, Córdoba, Córdoba, España 🇪🇸
             Vivo actualmente con mi madre y mi hermano en la casa familiar.<br />
             <br />
