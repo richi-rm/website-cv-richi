@@ -1,0 +1,116 @@
+@font-face {
+   font-family: montserrat;
+   src: url('Montserrat-Regular.ttf');
+}
+
+body {
+   background-color: #e0f0ff;
+   color: #303030;
+   font-family: montserrat;
+   margin: 20px;
+}
+
+div {
+   color: #303030;
+}
+
+a {
+   font-weight: bold;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #808000;
+}
+
+li {
+   padding-bottom: 20px;
+}
+
+.first {
+   padding: 20px;
+}
+
+.section {
+   margin-top: 50px;
+}
+
+.section img.photo {
+   border-radius: 200px;
+   border: solid 10px white;
+   width: 300px;
+}
+
+.section.name {
+   color: #404080;
+   font-size: 0.9em;
+}
+
+.section h1 {
+   color: #404080;
+}
+
+.experience {
+   color: black;
+   padding: 20px;
+   border-radius: 25px;
+   border: solid 5px #eee;
+   margin-bottom: 20px;
+}
+
+.experience.current {
+   background-color: #fffff0;
+}
+
+.position {
+   border-bottom: solid 3px #eee;
+   color: #404080;
+   font-size: 1.2em;
+   font-weight: bold;
+   margin-bottom: 10px;
+   margin: 0 0 10px 0;
+   padding: 5px 0 5px 0;
+   text-transform: uppercase;
+   width: 75%;
+}
+
+.second {
+   background-color: white;
+   border-radius: 5px;
+   color: black;
+   padding: 20px;
+}
+
+/* mobile  */
+
+@media screen and (max-width: 999px) {
+
+   .section.photo {
+      text-align: center;
+   }
+
+   .section.name {
+      text-align: center;
+   }
+
+}
+
+/* desktop */
+
+@media screen and (min-width: 1000px) {
+
+   .first {
+      float: left;
+      width: 45%;
+   }
+
+   .section.photo {
+      float: right;
+   }
+
+   .second {
+      float: right;
+      width: 45%;
+   }
+
+}
