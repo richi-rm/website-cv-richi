@@ -78,7 +78,11 @@ li {
    background-color: white;
    border-radius: 5px;
    color: black;
-   padding: 20px;
+   padding: 20px 50px 20px 50px;
+}
+
+.second .section {
+   text-align: justify;
 }
 
 /* mobile  */

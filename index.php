@@ -83,7 +83,7 @@
             <h2>PHP developer</h2>
             <div>
                Última actualización de este CV:<br />
-               2023-07-10-04-05-56-am-cest
+               2023-07-10-07-46-42-am-cest
             </div>
          </div>
 
@@ -92,13 +92,16 @@
             <b>¡Hola!</b><br />
             <br />
             Soy un desarrollador de software especializado en PHP puro,
-            actualmente teletrabajando desde Córdoba ciudad (España).
-            <?= diffdate('199711', \date('Ym')) ?> (desde 1997) entretenido con
-            el software, la programación y el desarrollo 👨‍💻<br />
+            actualmente teletrabajando desde Córdoba ciudad (España) como
+            empleado a jornada completa para la empresa
+            <a target="_blank" href="https://nateevo.com">NATEEVO</a>.<br />
             <br />
-            Actualmente teletrabajo como empleado a jornada completa para la
-            empresa <a target="_blank" href="https://nateevo.com">NATEEVO</a>, y
-            estoy en vías de montar mi propia empresita de software 🚀
+            Llevo <?= diffdate('199711', \date('Ym')) ?> (desde 1997)
+            entretenido con el software, la programación y el desarrollo en
+            general 👨‍💻<br />
+            <br />
+            Actualmente estoy también en vías de montar mi propia empresita de
+            software 🚀
          </div>
 
          <div class="section">
@@ -285,9 +288,8 @@
             compré un sobremesa "de esos clónicos", gracias a los ahorros que
             conseguí trabajando para la empresa King Silver, empresa con sede en
             Córdoba dedicada a promocionar en Internet a otras empresas. En King
-            Silver ayudé en el desarrollo ASP | Microsoft Access | SQL Server
-            del portal
-            <a href="https://www.infoindustrias.com">Infoindustrias</a>,
+            Silver ayudé en el desarrollo ASP y C del portal
+            <a target="_blank" href="https://www.infoindustrias.com">Infoindustrias.com</a>,
             directorio on-line con todas las empresas de España clasificadas por
             actividad profesional, y ayudé construyendo recolectores de
             información de Internet (visitadores de webs y parseadores de texto
@@ -334,7 +336,7 @@
          </div>
 
          <div class="section">
-            <h1>Skills</h1>
+            <h1>Skills actuales</h1>
             <a target="_blank" href="https://fedoraproject.org">#Fedora</a>&nbsp;&nbsp;&nbsp;
             <a target="_blank" href="https://ubuntu.com">#Ubuntu</a>&nbsp;&nbsp;&nbsp;
             <a target="_blank" href="https://www.sublimetext.com">#SublimeText</a>&nbsp;&nbsp;&nbsp;
@@ -369,7 +371,7 @@
             <br />
 
             <b>Facebook:</b><br />
-            <a target="_blank" href="https://www.facebook.com/richi.ruiz.martinez.1977">https://www.facebook.com/richi.ruiz.martinez.1977</a><br />
+            <a target="_blank" href="https://www.facebook.com/richi.ruiz.martinez.1977">@richi.ruiz.martinez.1977</a><br />
             <br />
 
             <b>Email personal y de trabajo:</b><br />
