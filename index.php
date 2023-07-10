@@ -53,22 +53,12 @@
       <!-- CSS -->
 
       <link rel="stylesheet" href="css/styles.css" />
-      <style>
-         <?php
-            $red   = \sprintf("%02s", \dechex(\random_int(0xa0, 0xff)));
-            $green = \sprintf("%02s", \dechex(\random_int(0xa0, 0xff)));
-            $blue  = \sprintf("%02s", \dechex(\random_int(0xa0, 0xff)));
-            $rgb   = $red . $green . $blue;
-            echo 'body { background-color: #' . $rgb . '; }';
-         ?>
-
-      </style>
 
    </head>
 
    <body>
 
-      <div class="first">
+      <main>
 
          <div class="section photo">
             <img class="photo" src="images/photo-w500.jpg" alt="Photo" />
@@ -76,20 +66,21 @@
 
          <div class="section name">
             <h1>
-               <big>CV Ricardo Ruiz Martínez</big><br />
-               <br />
-               Richi RM
+               <big>CV Ricardo Ruiz Martínez</big>
             </h1>
-            <h2>PHP developer</h2>
-            <div>
-               Última actualización de este CV:<br />
-               2023-07-10-07-46-42-am-cest
-            </div>
+            <h2>
+               Richi RM<br />
+               PHP developer
+            </h2>
+            <p>
+               <small>Última actualización de este curriculum vitae:</small><br />
+               <small>2023-07-10-15-11-34-pm-cest</small>
+            </p>
          </div>
 
          <div class="section">
             <h1>Presentación</h1>
-            <b>¡Hola!</b><br />
+            ¡Hola!<br />
             <br />
             Soy un desarrollador de software especializado en PHP puro,
             actualmente teletrabajando desde Córdoba ciudad (España) como
@@ -100,7 +91,7 @@
             entretenido con el software, la programación y el desarrollo en
             general 👨‍💻<br />
             <br />
-            Actualmente estoy también en vías de montar mi propia empresita de
+            Actualmente estoy también en vías de montar mi propia empresa de
             software 🚀
          </div>
 
@@ -108,12 +99,16 @@
             <h1>Lemas</h1>
             <ul>
                <li>
-                  <i>"Do what you love and success will follow.<br />
-                   &nbsp;Passion is the fuel behind a successful career."</i><br />
-                   &nbsp;<a target="_blank" href="https://en.wikipedia.org/wiki/Meg_Whitman">Meg Whitman</a>
+                  <i>
+                     "Do what you love and success will follow.
+                     Passion is the fuel behind a successful career."
+                  </i><br />
+                  &nbsp;<a target="_blank" href="https://en.wikipedia.org/wiki/Meg_Whitman">Meg Whitman</a>
                </li>
                <li>
-                  <i>"Patience & Perseverance."</i><br />
+                  <i>
+                     "Patience & Perseverance."
+                  </i><br />
                   &nbsp;<a href="#">Richi RM</a>
                </li>
             </ul>
@@ -124,7 +119,7 @@
             <table cellpadding="10">
                <tbody>
                   <tr>
-                     <td>
+                     <td valign="top">
                         <big><big><big><big>🎓</big></big></big></big>
                      </td>
                      <td>
@@ -136,7 +131,7 @@
                      </td>
                   </tr>
                   <tr>
-                     <td>
+                     <td valign="top">
                         <big><big><big><big>🎓</big></big></big></big>
                      </td>
                      <td>
@@ -155,7 +150,8 @@
 
             <div class="experience current">
                <div class="position current">
-                  PHP developer ( ⭐ experiencia actual ⭐ )
+                  PHP developer<br />
+                  actualmente ⭐
                </div>
                <div>
                   <a target="_blank" href="https://nateevo.com">NATEEVO (Grupo VASS)</a><br />
@@ -269,10 +265,6 @@
             </div>
 
          </div>
-
-      </div>
-
-      <div class="second">
 
          <div class="section">
             <h1>Un resumen de mi vida profesional</h1>
@@ -393,9 +385,9 @@
             <br />
 
             <b>Vivo en:</b><br />
-            Calle Conquistador Ordoño Álvarez, 6, 1, 1, 2 🏡<br />
-            Barrio de la Fuensanta, 14010, Córdoba, Córdoba, España 🇪🇸<br />
-            Vivo actualmente con mi madre y con mi hermano en casa de mi madre.<br />
+            Calle Conquistador Ordoño Álvarez, 6, 1, 1, 2 🏡,
+            Barrio de la Fuensanta, 14010, Córdoba, Córdoba, España 🇪🇸
+            Vivo actualmente con mi madre y mi hermano en la casa familiar.<br />
             <br />
 
             <b>Discapacidad:</b><br />
@@ -406,7 +398,7 @@
 
          </div>
 
-      </div>
+      </main>
 
    </body>
 
