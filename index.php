@@ -73,7 +73,7 @@
                PHP developer
             </h2>
             <p>
-               <small>Última actualización de este curriculum vitae:</small><br />
+               <small>Última actualización de este CV:</small><br />
                <small>2023-07-10-15-11-34-pm-cest</small>
             </p>
          </div>
