@@ -55,7 +55,7 @@ li {
 .experience {
    padding: 20px;
    border-radius: 25px;
-   border: solid 5px #eee;
+   border: solid 3px #e0f0ff;
    margin-bottom: 20px;
 }
 
@@ -64,7 +64,7 @@ li {
 }
 
 .position {
-   border-bottom: solid 3px #eee;
+   border-bottom: solid 3px #e0f0ff;
    color: #404080;
    font-size: 1.2em;
    font-weight: bold;
