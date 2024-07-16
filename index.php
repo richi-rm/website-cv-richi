@@ -66,7 +66,7 @@
 
          <div class="section name">
             <h1>
-               <big>CV Ricardo Ruiz Martínez</big>
+               <big>Curriculum Vitae<br />Ricardo Ruiz Martínez</big>
             </h1>
             <h2>
                Richi RM<br />
@@ -74,7 +74,7 @@
             </h2>
             <p>
                <small>Última actualización de este CV:</small><br />
-               <small>2023-07-10-15-11-34-pm-cest</small>
+               <small>2024-07-16-9-41-0-am-cest</small>
             </p>
          </div>
 
@@ -82,36 +82,13 @@
             <h1>Presentación</h1>
             ¡Hola!<br />
             <br />
-            Soy un desarrollador de software especializado en PHP puro,
-            actualmente teletrabajando desde Córdoba ciudad (España) como
-            empleado a jornada completa para la empresa
-            <a target="_blank" href="https://nateevo.com">NATEEVO</a>.<br />
+            Soy un desarrollador de software especializado en PHP, actualmente
+            teletrabajando desde Córdoba (España) para una agencia de marketing
+            de Madrid llamada <a target="_blank" href="https://nateevo.com">NATEEVO</a>.<br />
             <br />
             Llevo <?= diffdate('199711', \date('Ym')) ?> (desde 1997)
             entretenido con el software, la programación y el desarrollo en
             general 👨‍💻<br />
-            <br />
-            Actualmente estoy también en vías de montar mi propia empresa de
-            software 🚀
-         </div>
-
-         <div class="section">
-            <h1>Lemas</h1>
-            <ul>
-               <li>
-                  <i>
-                     "Do what you love and success will follow.
-                     Passion is the fuel behind a successful career."
-                  </i><br />
-                  &nbsp;<a target="_blank" href="https://en.wikipedia.org/wiki/Meg_Whitman">Meg Whitman</a>
-               </li>
-               <li>
-                  <i>
-                     "Patience & Perseverance."
-                  </i><br />
-                  &nbsp;<a href="#">Richi RM</a>
-               </li>
-            </ul>
          </div>
 
          <div class="section">
@@ -146,7 +123,7 @@
 
          <div class="section">
 
-            <h1>Experiencia trabajando para empresas</h1>
+            <h1>Experiencia profesional</h1>
 
             <div class="experience current">
                <div class="position current">
@@ -161,8 +138,7 @@
                   Desarrollo de y colaboración en proyectos dockerizados usando
                   frameworks y CMSs basados en PHP.<br />
                   <br />
-                  <b>PHP, MySQL, Drupal, WordPress, Symfony, Docker, git,
-                  ChatGPT.</b><br />
+                  <b>PHP, MySQL, Drupal, WordPress, Symfony, Docker, git.</b><br />
                </div>
             </div>
 
@@ -242,7 +218,7 @@
                   <br />
                   Desarrollo de un portal web en lenguaje ASP y Microsoft Access
                   como base de datos, guía on-line de todas las empresas de
-                  España. Construcción de recolectores de datos de Internet, en C.<br />
+                  España. Construcción de recolectores de datos de Internet, en lenguaje C.<br />
                   <br />
                   <b>ASP, C, Microsoft Access.</b>
                </div>
@@ -279,7 +255,7 @@
             ensamblador 80x86 y lenguaje C. Con los años cambié de PC y me
             compré un sobremesa "de esos clónicos", gracias a los ahorros que
             conseguí trabajando para la empresa King Silver, empresa con sede en
-            Córdoba dedicada a promocionar en Internet a otras empresas. En King
+            Córdoba dedicada a promocionar a otras empresas en Internet. En King
             Silver ayudé en el desarrollo ASP y C del portal
             <a target="_blank" href="https://www.infoindustrias.com">Infoindustrias.com</a>,
             directorio on-line con todas las empresas de España clasificadas por
@@ -292,9 +268,9 @@
             Ingeniero Técnico en Informática de Sistemas</b>; la estudié en la
             Escuela Politécnica Superior de la Universidad de Córdoba (UCO). Al
             terminarla, en octubre de 2008, decidí independizarme de casa de mi
-            madre e irme a vivir con mi nuevo amigo, mi gatito "Chiquito" 🐱, a
-            un apartamento en el barrio de Ciudad Jardín, cerca de mi trabajo en
-            el Rectorado de la Universidad 🎓<br />
+            madre e irme a vivir con mi gato "Chiquito" 🐱, a un apartamento en
+            el barrio de Ciudad Jardín, cerca de mi trabajo en el Rectorado de
+            la Universidad 🎓<br />
             <br />
             En la UCO tuve varios empleos: como becario en el Servicio de
             Gestión de Estudiantes, ayudando en el Servicio de Tratamiento de
@@ -320,11 +296,7 @@
             <br />
             <b>Desde abril de 2021 (hace <?= diffdate('202104', \date('Ym')) ?>)
             teletrabajo desde Córdoba</b> para
-            <a target="_blank" href="https://nateevo.com">NATEEVO</a>. Llevo
-            <?= diffdate('201509', \date('Ym')) ?> en esta empresa TOP 🔝 del
-            sector, perteneciente a la empresa matriz
-            <a target="_blank" href="https://vasscompany.com">VASS</a>, y me
-            encuentro a gusto en ella.<br />
+            <a target="_blank" href="https://nateevo.com">NATEEVO</a>.
          </div>
 
          <div class="section">
@@ -355,7 +327,7 @@
             <h1>Más sobre mí</h1>
 
             <b>Nacimiento:</b> 👶<br />
-            17 de enero de 1977 (46 primaveras), en Córdoba capital (Hospital Reina Sofía), España.<br />
+            17 de enero de 1977, en Córdoba, España.<br />
             <br />
 
             <b>GitHub:</b><br />
@@ -363,38 +335,38 @@
             <br />
 
             <b>Facebook:</b><br />
-            <a target="_blank" href="https://www.facebook.com/richi.ruiz.martinez.1977">@richi.ruiz.martinez.1977</a><br />
+            <a target="_blank" href="https://www.facebook.com/ricardo.ruiz.martinez.1977">@ricardo.ruiz.martinez.1977</a><br />
             <br />
 
             <b>Email personal y de trabajo:</b><br />
-            <a target="_blank" href="mailto:richiruizmartinez@gmail.com">📩</a> <a target="_blank" href="mailto:richiruizmartinez@gmail.com">richiruizmartinez@gmail.com</a><br />
+            <a target="_blank" href="mailto:ricardo.ruiz.martinez.1977@gmail.com">📩</a> <a target="_blank" href="mailto:ricardo.ruiz.martinez.1977@gmail.com">ricardo.ruiz.martinez.1977@gmail.com</a><br />
             <br />
 
             <b>Móvil personal y de trabajo:</b><br />
             <a target="_blank" href="tel:744653072">📱</a> <a target="_blank" href="https://wa.me/34744653072"><img align="absmiddle" src="images/whatsapp-w20.png" width="20" alt="WhatsApp" /></a> <a target="_blank" href="tel:744653072">+34 744 653 072</a><br />
             <br />
 
-            <b>Música que me gusta:</b> 🎧<br />
-            Boris Brejcha, The Prodigy<br />
-            <br />
-
-            <b>Medio de transporte que uso:</b><br />
-            Autobús 🚌, metro 🚇, tren 🚆, barco 🚢, avión ✈️, ovni 🛸, lo que
-            sea con tal de llegar a mi destino. Permiso de conducir de clase B,
-            pero sin coche actualmente.<br />
-            <br />
-
             <b>Vivo en:</b><br />
             <a target="_blank" href="https://www.google.com/maps/@37.87991,-4.7640394,20z?entry=ttu">Calle Conquistador Ordoño Álvarez, 6, 1, 1, 2</a> 🏡,
-            Barrio de la Fuensanta, 14010, Córdoba, Córdoba, España 🇪🇸
-            Vivo actualmente con mi madre y mi hermano en la casa familiar.<br />
+            14010, Córdoba, Córdoba, España 🇪🇸<br />
             <br />
 
-            <b>Discapacidad:</b><br />
-            Sufro de trastorno bipolar, un problema de salud mental que me hace
-            alternar entre períodos de euforia y períodos depresivos. Estoy a la
-            espera de que me valore un Tribunal Médico, para obtener el
-            Certificado de Discapacidad.
+            <b>Lemas:</b><br />
+            <ul>
+               <li>
+                  <i>
+                     "Do what you love and success will follow.
+                     Passion is the fuel behind a successful career."
+                  </i><br />
+                  &nbsp;<a target="_blank" href="https://en.wikipedia.org/wiki/Meg_Whitman">Meg Whitman</a>
+               </li>
+               <li>
+                  <i>
+                     "Patience & Perseverance."
+                  </i><br />
+                  &nbsp;<a href="#">Richi RM</a>
+               </li>
+            </ul>
 
          </div>
 
